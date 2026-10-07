@@ -24,6 +24,10 @@ I compared batting average against (BAA), average fastball velocity, strikeout r
 - **Strikeout and whiff rates varied more by pitcher:** Paul Skenes and Yoshinobu Yamamoto finished with higher late-game strikeout and whiff rates, while several other pitchers declined.
 - **Late-game results were more variable:** The pitchers did not show one consistent pattern as games progressed, with some improving in certain metrics while others declined.
 
+## Limitations
+
+Late-game sample sizes were smaller because fewer starting pitchers remained in games long enough to reach the Late stage. Because of this, Late-stage results may be more variable and should be interpreted with caution.
+
 ## SQL Analysis
 
 I used SQL to organize the pitching data and calculate the metrics used in the dashboard. I grouped each pitcher's performance into Early, Middle, and Late game stages so I could compare how their results changed as the game progressed.
