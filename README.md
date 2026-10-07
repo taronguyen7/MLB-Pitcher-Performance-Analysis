@@ -10,12 +10,12 @@ I compared batting average against (BAA), average fastball velocity, strikeout r
 
 ## Tools Used
 
-- **SQL** – Data preparation, transformation,data cleaning, and analysis
+- **SQL** – Data preparation, transformation, data cleaning, and analysis
 - **Power BI** – Dashboard creation and data visualization
 
 ## Dashboard Overview
 
-[Dashboard screenshot will go here]
+![MLB Pitcher Performance Dashboard](mlb-pitcher-dashboard.png)
 
 ### Key Insights
 
