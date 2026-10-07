@@ -32,4 +32,8 @@ Late-game sample sizes were smaller because fewer starting pitchers remained in 
 
 I used SQL to organize the pitching data and calculate the metrics used in the dashboard. I grouped each pitcher's performance into Early, Middle, and Late game stages so I could compare how their results changed as the game progressed.
 
+[View SQL analysis](sql/pitcher_stage_summary.sql)
+
 The SQL files used for the analysis are included in this repository.
+
+
